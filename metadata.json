@@ -1,0 +1,6 @@
+{
+  "name": "VELOCE GP",
+  "description": "High-speed 3D circuit car racing game with procedural GT cars, dynamic chase camera, nitro boost, and Web Audio engine synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
